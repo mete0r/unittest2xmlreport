@@ -1,0 +1,4 @@
+include unittest2xmlreport.py
+include README
+include CHANGELOG
+include COPYING
